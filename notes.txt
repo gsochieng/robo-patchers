@@ -1,0 +1,16 @@
+NOTE
+ 
+Version control in git helps git track your project
+Git allows us to take snapshot of the project called commit.
+Git is a technology
+Git was created by Linus Torvald
+Git is open source
+GitHub is a company.(Not open source)
+
+
+#git init
+#git status
+=>No commit yet
+=>Untracked file is not tracked by git (red files)
+#git add index.html
+#git commit -m "Web app skeleton created"
